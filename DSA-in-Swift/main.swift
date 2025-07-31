@@ -7,10 +7,11 @@
 
 import Foundation
 
-let number = 153
-if isArmstrong(number) {
-    print("\(number) is an Armstrong number.")
+print("Enter a number:", terminator: " ")
+if let input = readLine(), let num = Int(input) {
+    extractAndReverseDigits(num)
 } else {
-    print("\(number) is not an Armstrong number.")
+    print("Invalid input.")
 }
+
 
