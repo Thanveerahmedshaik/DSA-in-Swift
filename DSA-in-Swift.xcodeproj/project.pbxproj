@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		A1165D0A2E3C0DEC009FA3AA /* DSA-in-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DSA-in-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1165D232E3C1EA3009FA3AA /* README 2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README 2.md"; sourceTree = "<group>"; };
+		A1165D232E3C1EA3009FA3AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		A1165D012E3C0DEC009FA3AA = {
 			isa = PBXGroup;
 			children = (
-				A1165D232E3C1EA3009FA3AA /* README 2.md */,
+				A1165D232E3C1EA3009FA3AA /* README.md */,
 				A1165D0C2E3C0DEC009FA3AA /* DSA-in-Swift */,
 				A1165D0B2E3C0DEC009FA3AA /* Products */,
 			);
