@@ -19,7 +19,7 @@ This repository contains solutions to classic data structure and algorithm probl
 
 | No. | Problem Description                         | Difficulty | Link |
 |-----|----------------------------------------------|------------|------|
-| 1️⃣  | Store frequency using Dictionary / Reduce   | 🟢 Easy     | [View Code](https://github.com/Thanveerahmedshaik/DSA-in-Swift/blob/main/DSA-in-Swift/Hashing/storeFrequencyInDictionary.swift) |
+| 4️⃣  | Store frequency using Dictionary / Reduce   | 🟢 Easy     | [View Code](https://github.com/Thanveerahmedshaik/DSA-in-Swift/blob/main/DSA-in-Swift/Hashing/storageFrequencyInDictionary.swift) |
 
 ---
 
