@@ -14,6 +14,16 @@ This repository contains solutions to classic data structure and algorithm probl
 
 ---
 
+
+## 🧊 Hashing Problems
+
+| No. | Problem Description                         | Difficulty | Link |
+|-----|----------------------------------------------|------------|------|
+| 1️⃣  | Store frequency using Dictionary / Reduce   | 🟢 Easy     | [View Code](https://github.com/Thanveerahmedshaik/DSA-in-Swift/blob/main/DSA-in-Swift/Hashing/storeFrequencyInDictionary.swift) |
+
+---
+
+
 ## 💻 How to Run Swift Files
 
 To run any file locally using Swift:
