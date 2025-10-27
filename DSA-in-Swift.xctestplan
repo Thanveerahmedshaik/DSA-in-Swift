@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "D476115D-6C6B-438A-8FA1-ECF4DB790723",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DSA-in-Swift.xcodeproj",
+      "identifier" : "A1165D092E3C0DEC009FA3AA",
+      "name" : "DSA-in-Swift"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:DSA-in-Swift.xcodeproj",
+        "identifier" : "A187F7C62EAEF2D4000B0461",
+        "name" : "DSA_in_SwiftTests"
+      }
+    }
+  ],
+  "version" : 1
+}

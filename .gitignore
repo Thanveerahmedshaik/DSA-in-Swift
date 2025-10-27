@@ -6,6 +6,38 @@
 *.xcuserdata
 *.xcworkspace
 
+# Xcode
+DerivedData/
+build/
+*.xcuserdata
+*.xcuserstate
+*.xcuserdatad
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+
+# Swift Package Manager
+/.build/
+Packages/
+Package.pins
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+
 # Build and cache folders
 DerivedData/
 build/
