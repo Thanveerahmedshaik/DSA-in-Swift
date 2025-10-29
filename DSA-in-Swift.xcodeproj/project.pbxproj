@@ -40,6 +40,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Arrays/MergeSort.swift,
+				Arrays/MergeTwoSortedArrays.swift,
+				LeetCode/Arrays/FindMissingNumber.swift,
 			);
 			target = A187F7C62EAEF2D4000B0461 /* DSA_in_SwiftTests */;
 		};
