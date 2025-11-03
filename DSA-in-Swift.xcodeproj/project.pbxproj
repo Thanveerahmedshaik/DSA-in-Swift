@@ -43,6 +43,7 @@
 				Arrays/MergeTwoSortedArrays.swift,
 				LeetCode/Arrays/FindMissingNumber.swift,
 				LeetCode/Arrays/MaxConsecutiveOnes.swift,
+				LeetCode/Arrays/TwoSumProblem.swift,
 			);
 			target = A187F7C62EAEF2D4000B0461 /* DSA_in_SwiftTests */;
 		};
