@@ -41,6 +41,7 @@
 			membershipExceptions = (
 				Arrays/MergeSort.swift,
 				Arrays/MergeTwoSortedArrays.swift,
+				LeetCode/Arrays/FindMaxSubarraySum.swift,
 				LeetCode/Arrays/FindMissingNumber.swift,
 				LeetCode/Arrays/MaxConsecutiveOnes.swift,
 				LeetCode/Arrays/TwoSumProblem.swift,
